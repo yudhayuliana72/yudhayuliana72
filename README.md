@@ -1,19 +1,38 @@
-## Yudha — backend by day, side projects by night.
+## yudhayuliana72's corner of GitHub 👋
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-30363D?style=for-the-badge&logo=github&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-30363D?style=for-the-badge&logo=github&logoColor=white) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-30363D?style=for-the-badge&logo=github&logoColor=white) ![viem](https://img.shields.io/badge/viem-30363D?style=for-the-badge&logo=github&logoColor=white)
+Writing modular backend services and self-contained microservices. Based in Malmo.
 
-> Writing modular backend services and self-contained microservices.
+<table>
+<tr>
+<td valign="top" width="58%">
 
-- **Based in:** Lhokseumawe, Indonesia
-- **Current lab:** Ruang Kode
-- **Core stack:** `Solidity` (Hardhat, Foundry, OpenZeppelin, viem)
+- 📝 I keep notes about serverless and edge compute
+- 🤝 Open to collaborating on open-source projects
+- 🚀 Interested in indie web projects
+- 🎯 Thinking about pragmatic development
 
-### What I'm working on
+![HARDHAT](https://img.shields.io/badge/HARDHAT-f43f5e?style=for-the-badge) ![FOUNDRY](https://img.shields.io/badge/FOUNDRY-f43f5e?style=for-the-badge) ![OPENZEPPELIN](https://img.shields.io/badge/OPENZEPPELIN-f43f5e?style=for-the-badge) ![SOLIDITY](https://img.shields.io/badge/SOLIDITY-f43f5e?style=for-the-badge)
 
-- 🧑‍💻 pairing on a small fix
-- 📚 rereading the parts I skipped
-- 🍜 noodles as a reward
+</td>
+<td valign="top" width="42%">
 
-![Focus](https://img.shields.io/badge/focus-Solidity-f472b6?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/yudhayuliana72/yudhayuliana72?style=flat-square&color=f472b6&label=last%20commit)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudhayuliana72&theme=radical" alt="yudhayuliana72 GitHub stats" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yudhayuliana72&theme=radical" alt="Contribution graph" />
 
-_Drop a note if you are working on something similar._
+</td>
+</tr>
+</table>
+
+<img width="420" src="https://streak-stats.demolab.com/?user=yudhayuliana72&theme=synthwave&hide_border=true&background=0D1117&ring=f43f5e&fire=f43f5e&currStreakLabel=f43f5e" alt="yudhayuliana72 streak" />
+
+#### Currently
+
+- 🎧 one playlist on repeat during long refactors
+- ☕ dialing in the morning pour-over
+- 🌙 late-night side projects when the logs are quiet
+
+---
+
+![Followers](https://img.shields.io/github/followers/yudhayuliana72?style=flat-square&logo=github&label=Followers&color=181717) [![GitHub](https://img.shields.io/badge/GITHUB-%40YUDHAYULIANA72-f43f5e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudhayuliana72)
+
+<sub>Drop a note if you are working on something similar.</sub>
